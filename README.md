@@ -7,13 +7,14 @@
 <img alt="Discordグループ" src="https://img.shields.io/discord/550022116158865468?color=blue&label=Discord%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97&logo=Discord&style=flat-square">
 </p>
 
+## サイト関係
+* なま鯖サイト[https://nkserver.net](https://nkserver.net) <br>
+* 自己紹介サイト[https://lazyperson0710.tech](https://lazyperson0710.tech) <br>
+
 ## 概要
 基本的にプライベートリポジトリに開発します。<br>
 母語はPHP 8.\*になります
 
-## サイト関係
-* なま鯖サイト[https://nkserver.net](https://nkserver.net) <br>
-* 自己紹介サイト[https://lazyperson710.tech](https://lazyperson710.tech) <br>
 <br>
 <p>
 <img alt="GitHubProfileSummaryCards-1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazyperson0710&theme=github_dark">
