@@ -2,7 +2,7 @@
 
 ### Hi There!
 
-コーディング時間 2022年10月以降 phpstorm & vscodeのみ  
+コーディング時間 2022年10月以降  
 [![wakatime](https://wakatime.com/badge/user/863f71f0-9cdc-4281-9b35-46cb9b5959b0.svg)](https://wakatime.com/@863f71f0-9cdc-4281-9b35-46cb9b5959b0)
 
 <p>
